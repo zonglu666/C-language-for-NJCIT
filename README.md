@@ -1,4 +1,4 @@
-# The course of the C programming language
+# The C programming language course
 
 ## Summary
 
