@@ -14,10 +14,10 @@ This repositories is about the course of the C programming language. This course
 
 ## Contact Me
 
-**E-Mail**
+ - **E-Mail**
 
 71174500232@stu.ecnu.edu.cn
 
-**Wechat**
+ - **Wechat**
 
 ![Wechat](files/wechat-qrcode.png)
