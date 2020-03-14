@@ -11,6 +11,7 @@ I hope that this course can make you love writing code and we can be good friend
 Ready? Let's go!
 
 * Teaching Plan
+
 | **Course Name**   | C Programming Language   |    |    | 
 |:----|:----|:----|:----|
 | **Teacher**   | Zong Lou   |    |    | 
@@ -24,9 +25,11 @@ Ready? Let's go!
 |    | freedom | 2 |    | 
 
 * Teaching Requirement
+
   1. make some notes
   2. submit assignments on time
   3. write code by yourself ( don't copy & paste )
+
 * Content Me
 
 Wechat/QQ: 415390588
