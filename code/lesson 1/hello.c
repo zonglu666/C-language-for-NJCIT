@@ -1,5 +1,6 @@
 /**
  * 编译过程
+ * 
  * 1.预编译(编译预处理) 生成预处理文件
  * gcc -E hello.c -o hello.i
  * 
@@ -18,7 +19,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("11111\n22222\t33333\b44444\r55555\\66666\"77777\'");
     printf("Hello,world!\n");
     return 0;
 }

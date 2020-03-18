@@ -18,12 +18,8 @@ Lcfi2:
 	movl	$0, -4(%rbp)
 	movb	$0, %al
 	callq	_printf
-	leaq	L_.str.1(%rip), %rdi
-	movl	%eax, -8(%rbp)          ## 4-byte Spill
-	movb	$0, %al
-	callq	_printf
 	xorl	%ecx, %ecx
-	movl	%eax, -12(%rbp)         ## 4-byte Spill
+	movl	%eax, -8(%rbp)          ## 4-byte Spill
 	movl	%ecx, %eax
 	addq	$16, %rsp
 	popq	%rbp
@@ -32,9 +28,6 @@ Lcfi2:
 
 	.section	__TEXT,__cstring,cstring_literals
 L_.str:                                 ## @.str
-	.asciz	"11111\n22222\t33333\b44444\r55555\\66666\"77777'"
-
-L_.str.1:                               ## @.str.1
 	.asciz	"Hello,world!\n"
 
 

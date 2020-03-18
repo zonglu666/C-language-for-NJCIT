@@ -5,7 +5,7 @@
 # 1 "<command line>" 1
 # 1 "<built-in>" 2
 # 1 "hello.c" 2
-# 18 "hello.c"
+# 19 "hello.c"
 # 1 "/usr/include/stdio.h" 1 3 4
 # 64 "/usr/include/stdio.h" 3 4
 # 1 "/usr/include/sys/cdefs.h" 1 3 4
@@ -453,10 +453,9 @@ extern int __vsprintf_chk (char * restrict, int, size_t,
 extern int __vsnprintf_chk (char * restrict, size_t, int, size_t,
        const char * restrict, va_list);
 # 499 "/usr/include/stdio.h" 2 3 4
-# 19 "hello.c" 2
+# 20 "hello.c" 2
 int main()
 {
-    printf("11111\n22222\t33333\b44444\r55555\\66666\"77777\'");
     printf("Hello,world!\n");
     return 0;
 }
