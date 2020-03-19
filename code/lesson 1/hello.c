@@ -11,7 +11,7 @@
  * as hello.s -o hello.o
  * 
  * 4.链接(生成可执行文件) 将中间目标文件与需要的附加目标文件(如静态链接库、动态链接库)链接起来，生成可执行文件
- * gcc hello.c -o hello   #
+ * gcc hello.o -o hello   #
  * 
  * 5.执行可执行文件
  * ./hello
