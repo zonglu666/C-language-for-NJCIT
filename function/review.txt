@@ -1,0 +1,36 @@
+进制转换
+
+原码反码补码
+
+数据类型（int、char、long int、double、float ... ）
+
+表达式（算数运算、逻辑运算）
+    # 运算符优先级
+    !  not
+    * / % + - 算数运算符
+    < > == >= <=  比较运算符
+    && || 逻辑运算符
+    = 赋值运算符
+
+选择结构（if...else...   switch...case...）
+    if(){ ... } else { ... }
+
+    if(){ ... } 
+
+    if() { if(){ ... } }
+
+循环结构（for循环   do..while循环   while循环  break语句  continue语句）
+
+数组（一维数组、二维数组）
+    数组的表示与存储
+    数组的函数参数
+
+指针
+    指针就是地址
+    数组的指针
+
+函数
+    参数传递 - 值传递  地址传递
+
+file access(input & output) [ optional ]
+struct 
